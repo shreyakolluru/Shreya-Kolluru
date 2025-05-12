@@ -1,8 +1,26 @@
 <h1 align="center">Hi 👋, I'm Shreya Kolluru</h1>
 <h3 align="center">Developer. Designer. Curious Human.</h3>
 
+Hey there! I’m Shreya — a visual thinker who’s fallen into the rabbit hole of code (and kinda loving it). I speak fluent design, sketch out ideas faster than my coffee brews, and I’m on a journey to bring those ideas to life with code.
+
+### 🌟 What I’m About
+- 🎨 Designing smooth, human-centered digital experiences
+- 🌐 Build full-stack web apps
+- 🤖 Play with AI & ML projects
+- 💻 Learning to code one bug at a time
+- ✏️ Doodling ideas, wireframes, and sometimes just for fun
+
+When I'm not writing logic or styling layouts, you'll probably find me:
+- ☕ Sipping on cold coffee (or pretending it's not my 3rd cup)
+- 💡 Dreaming up weird product ideas at 2 AM
+- 🎨 Designing interfaces that *hopefully* don’t hurt your eyes
+- I believe whitespace is magic ✨
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.behance.net/https://www.behance.net/kollurushreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kollurushreya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-kolluru-b67448246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreya-kolluru-b67448246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/kollurushreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/kollurushreya" height="30" width="40" /></a>
 </p>
